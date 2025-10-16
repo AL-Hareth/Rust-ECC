@@ -1,5 +1,5 @@
 # Elliptic Curve Cryptography
-This is Elliptic Curve Cryptography done from scratch in Rust.
+This is [Elliptic Curve Cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) done from scratch in Rust.
 
 If you are willing to see this app in action do the following:
 
